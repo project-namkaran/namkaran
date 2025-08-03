@@ -20,39 +20,40 @@ Each name blends **linguistic creativity** and **mathematical logic**, making it
 
 | Name                | Number Size                            | Zeros After 1                    |
 |---------------------|-----------------------------------------|----------------------------------|
-| **Nawazilion**       | 10^(10³)                                | Thousand                         |
-| **Septenawazilion**  | 10^(10⁶)                                | Million                          |
-| **Octonawazilion**   | 10^(10⁹)                                | Billion                          |
-| **Novanawazilion**   | 10^(10¹²)                               | Trillion                         |
-| **Decnawazilion**    | 10^(10¹⁵)                               | Quadrillion                      |
-| **Quinawazilion**    | 10^(10¹⁸)                               | Quintillion                      |
-| **Untrinawazilion**  | 10^(10²¹)                               | Sextillion                       |
-| **Triginawazilion**  | 10^(10²⁴)                               | Septillion                       |
-| **Sajidilion**       | 10^(10²⁷)                               | Octillion                        |
-| **Tasnimilion**      | 10^(10³⁰)                               | Nonillion                        |
-| **Apuilion**         | 10^(10³³)                               | Decillion                        |
-| **Onimilion**        | 10^(10³⁶)                               | Undecillion                      |
-| **Nahimilion**       | 10^(10³⁹)                               | Duodecillion                     |
-| **Khaizilion**       | 10^(10⁴²)                               | Tredecillion                     |
-| **Parulion**         | 10^(10⁴⁵)                               | Quattuordecillion                |
-| **Akhterilion**      | 10^(10⁴⁸)                               | Quindecillion                    |
-| **Uddinilion**       | 10^(10⁵¹)                               | Sexdecillion                     |
-| **Ahmadilion**       | 10^(10⁵⁴)                               | Septendecillion                  |
-| **Minhazilion**      | 10^(10⁵⁷)                               | Octodecillion                    |
-| **Farhalion**        | 10^(10⁶⁰)                               | Novemdecillion                   |
-| **Tishailion**       | 10^(10⁶³)                               | Vigintillion                     |
-| **Sujatalion**       | 10^(10⁶⁶)                               | Unvigintillion                   |
-| **Nasimailion**      | 10^(10⁶⁹)                               | Duovigintillion                  |
-| **Shajhanion**       | 10^(10⁷²)                               | Tresvigintillion                 |
-| **Trigiparvezilion** | 10^(10⁷⁵)                               | Quattuorvigintillion             |
-| **Aguoparvezilion**  | 10^(10⁷⁸)                               | Quinvigintillion                 |
-| **Septeparvezilion** | 10^(10⁸¹)                               | Sexvigintillion                  |
-| **Octoparvezilion**  | 10^(10⁸⁴)                               | Septenvigintillion               |
-| **Novaparvezilion**  | 10^(10⁸⁷)                               | Octovigintillion                 |
-| **Deceparvezilion**  | 10^(10⁹⁰)                               | Novemvigintillion                |
-| **Quiparvezilion**   | 10^(10⁹³)                               | Trigintillion                    |
-| **Untriparvezilion** | 10^(10⁹⁶)                               | Untrigintillion                  |
-| **Parvezilion**      | 10^(10⁹⁹)                               | Duotrigintillion                 |
+| [**Nawazilion**](nawazilion.md)       | 10^(10³)                                | Thousand                         |
+| [**Septenawazilion**](septenawazilion.md)  | 10^(10⁶)                                | Million                          |
+| [**Octonawazilion**](octonawazilion.md)   | 10^(10⁹)                                | Billion                          |
+| [**Novanawazilion**](novanawazilion.md)   | 10^(10¹²)                               | Trillion                         |
+| [**Decnawazilion**](decnawazilion.md)    | 10^(10¹⁵)                               | Quadrillion                      |
+| [**Quinawazilion**](quinawazilion.md)    | 10^(10¹⁸)                               | Quintillion                      |
+| [**Untrinawazilion**](untrinawazilion.md)  | 10^(10²¹)                               | Sextillion                       |
+| [**Triginawazilion**](triginawazilion.md)  | 10^(10²⁴)                               | Septillion                       |
+| [**Sajidilion**](sajidilion.md)       | 10^(10²⁷)                               | Octillion                        |
+| [**Tasnimilion**](tasnimilion.md)      | 10^(10³⁰)                               | Nonillion                        |
+| [**Apuilion**](apuilion.md)         | 10^(10³³)                               | Decillion                        |
+| [**Onimilion**](onimilion.md)        | 10^(10³⁶)                               | Undecillion                      |
+| [**Nahimilion**](nahimilion.md)       | 10^(10³⁹)                               | Duodecillion                     |
+| [**Khaizilion**](khaizilion.md)       | 10^(10⁴²)                               | Tredecillion                     |
+| [**Parulion**](parulion.md)         | 10^(10⁴⁵)                               | Quattuordecillion                |
+| [**Akhterilion**](akhterilion.md)      | 10^(10⁴⁸)                               | Quindecillion                    |
+| [**Uddinilion**](uddinilion.md)       | 10^(10⁵¹)                               | Sexdecillion                     |
+| [**Ahmadilion**](ahmadilion.md)       | 10^(10⁵⁴)                               | Septendecillion                  |
+| [**Minhazilion**](minhazilion.md)      | 10^(10⁵⁷)                               | Octodecillion                    |
+| [**Farhalion**](farhalion.md)        | 10^(10⁶⁰)                               | Novemdecillion                   |
+| [**Tishailion**](tishailion.md)       | 10^(10⁶³)                               | Vigintillion                     |
+| [**Sujatalion**](sujatalion.md)       | 10^(10⁶⁶)                               | Unvigintillion                   |
+| [**Nasimailion**](nasimailion.md)      | 10^(10⁶⁹)                               | Duovigintillion                  |
+| [**Shajhanion**](shajhanion.md)       | 10^(10⁷²)                               | Tresvigintillion                 |
+| [**Trigiparvezilion**](trigiparvezilion.md) | 10^(10⁷⁵)                               | Quattuorvigintillion             |
+| [**Aguoparvezilion**](aguoparvezilion.md)  | 10^(10⁷⁸)                               | Quinvigintillion                 |
+| [**Septeparvezilion**](septeparvezilion.md) | 10^(10⁸¹)                               | Sexvigintillion                  |
+| [**Octoparvezilion**](octoparvezilion.md)  | 10^(10⁸⁴)                               | Septenvigintillion               |
+| [**Novaparvezilion**](novaparvezilion.md)  | 10^(10⁸⁷)                               | Octovigintillion                 |
+| [**Deceparvezilion**](deceparvezilion.md)  | 10^(10⁹⁰)                               | Novemvigintillion                |
+| [**Quiparvezilion**](quiparvezilion.md)   | 10^(10⁹³)                               | Trigintillion                    |
+| [**Untriparvezilion**](untriparvezilion.md) | 10^(10⁹⁶)                               | Untrigintillion                  |
+| [**Parvezilion**](parvezilion.md)      | 10^(10⁹⁹)                               | Duotrigintillion                 |
+
 
 ---
 
